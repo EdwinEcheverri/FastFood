@@ -37,3 +37,12 @@ Generar reportes analíticos, detectar patrones de comportamiento de los cliente
 Combinar distintas fuentes para lograr una visión **más completa y enriquecida del negocio**.
 
 ---
+
+## 🛠️ Tecnologías Utilizadas
+
+- **SQL Server** 🗄️  
+- **SQL Server Management Studio (SSMS)** 🧰  
+- **Google Sheets / Excel** 📄  
+- **Modelo entidad-relación (ERD)** 🔗  
+
+---
